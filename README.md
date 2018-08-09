@@ -1,7 +1,7 @@
 # PHP BRasil
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/brasil-php/reference/master/visual-identity/logo/github.png"/>
+  <img src="https://raw.githubusercontent.com/brasil-php/admin/master/visual-identity/logo/github.png"/>
 </p>
 
 ## Quem somos
