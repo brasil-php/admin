@@ -20,12 +20,16 @@ Somos um dos maiores grupos de programação da língua portuguesa no Telegram e
 
 Alguns tipos de mensagens são automaticamente deletados pelo bot que gerencia o grupo, então se enviar mensagens e elas sumirem entre em contato com um admin para eventuais esclarecimentos ; )
 
+## Conduta
+
 O Grupo PHP BRasil é uma comunidade que preza por ambientes sadios, por favor, nos ajude nisso! Denuncie para a plataforma do Telegram ou algum admin alguma atitude que julgar inapropriada.
+
+Usamos esse [código de conduta](https://github.com/brazil-it-groups/code-of-conduct) como referência e recomendamos que todos os membros dêem uma lida entender com quais princípios estamos alinhados.
+
+## Onde estamos
 
 Dê uma olhada no nosso [Github](https://github.com/brasil-php) e encontre projetos para contribuir.
 
 Confira nosso material no [Youtube](https://youtube.com/c/PHPBR) e se inscreva no nosso canal para acompanhar as novidades.
 
 Não esqueça de visita o [blog](https://brasil-php.github.io/blog) para conferir os artigos produzidos pela própria comunidade.
-
-Usamos esse [código de conduta](https://github.com/brazil-it-groups/code-of-conduct) como referência, recomendamos dar uma lida para ficar familiarizado.
