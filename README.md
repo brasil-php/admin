@@ -12,6 +12,8 @@ O PHP Brasil (aka PHPBR) teve orivem em [grupo de discussões despretensioso no 
 
 Quando um novo colega entra no grupo fica restrito de enviar documentos, imagens e etc por 5 dias. Se precisar enviar mensagens deste tipo antes desse prazo ou tiver algum bloqueio pode entrar em contato com um admin que ele ajustará isso.
 
+Caso o novo membro não confirme sua entrada ele é removido automaticamente em 24h.
+
 Somos um dos maiores grupos de programação da língua portuguesa no Telegram e sua chegada nos deixa muito satisfeitos.
 
 Alguns tipos de mensagens são automaticamente deletados pelo bot que gerencia o grupo, então se enviar mensagens e elas sumirem entre em contato com um admin para eventuais esclarecimentos ; )
