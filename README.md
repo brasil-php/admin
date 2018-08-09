@@ -16,13 +16,13 @@ Quando um novo colega entra no grupo fica restrito de enviar documentos, imagens
 
 Caso o novo membro não confirme sua entrada ele é removido automaticamente em 24h.
 
-Somos um dos maiores grupos de programação da língua portuguesa no Telegram e sua chegada nos deixa muito satisfeitos.
+Somos um dos maiores grupos de programação da língua portuguesa no Telegram e a chegada de novos membros nos deixa muito satisfeitos.
 
 Alguns tipos de mensagens são automaticamente deletados pelo bot que gerencia o grupo, então se enviar mensagens e elas sumirem entre em contato com um admin para eventuais esclarecimentos ; )
 
 ## Conduta
 
-O Grupo PHP BRasil é uma comunidade que preza por ambientes sadios, por favor, nos ajude nisso! Denuncie para a plataforma do Telegram ou algum admin alguma atitude que julgar inapropriada.
+O Grupo PHP BRasil é uma comunidade que preza por ambientes sadios, por favor, nos ajude nisso! Denuncie para a plataforma do Telegram ou à algum admin alguma atitude que julgar inapropriada.
 
 Usamos esse [código de conduta](https://github.com/brazil-it-groups/code-of-conduct) como referência e recomendamos que todos os membros dêem uma lida entender com quais princípios estamos alinhados.
 
@@ -32,4 +32,4 @@ Dê uma olhada no nosso [Github](https://github.com/brasil-php) e encontre proje
 
 Confira nosso material no [Youtube](https://youtube.com/c/PHPBR) e se inscreva no nosso canal para acompanhar as novidades.
 
-Não esqueça de visita o [blog](https://brasil-php.github.io/blog) para conferir os artigos produzidos pela própria comunidade.
+Não esqueça de visitar o [blog](https://brasil-php.github.io/blog) para conferir os artigos produzidos pela própria comunidade.
