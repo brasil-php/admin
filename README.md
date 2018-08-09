@@ -1,8 +1,10 @@
+# PHP BRasil
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/brasil-php/reference/master/visual-identity/logo/github.png"/>
 </p>
 
-# PHP BRasil
+## Quem somos
 
 O PHP Brasil (aka PHPBR) teve orivem em [grupo de discussões despretensioso no Telegram](https://telegram.me/phpbrasil) que já ultrapassou a marca de 2.5k de inscritos e não para de aumentar. Com uma comunidade vibrante e envolvida temos [números que impressionam](https://combot.org/c/-1001033617662). Se quiser falar sobre PHP e assuntos relacionados ao desenvolvimento web de um modo geral pode encontrar no grupo uma boa morada : )
 
