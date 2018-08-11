@@ -321,6 +321,38 @@
          offset="1"
          id="stop4899" />
     </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter910">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood900" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite902" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2"
+         result="blur"
+         id="feGaussianBlur904" />
+      <feOffset
+         dx="3"
+         dy="3"
+         result="offset"
+         id="feOffset906" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite908" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -330,12 +362,12 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.12374369"
-     inkscape:cx="1171.9885"
+     inkscape:cx="2371.6527"
      inkscape:cy="1067.34"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1340"
+     inkscape:window-width="1310"
      inkscape:window-height="712"
      inkscape:window-x="26"
      inkscape:window-y="28"
@@ -394,7 +426,7 @@
          y="232.92346"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:372.43148804px;font-family:'Handel Gothic Italic';-inkscape-font-specification:'Handel Gothic Italic, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#6888be;fill-opacity:1;stroke:none;stroke-width:0.79806745;stroke-opacity:1">br</tspan></text>
     <g
-       transform="matrix(3.4880457,0,0,3.4880457,422.75504,-870.91656)"
+       transform="matrix(3.4880457,0,0,3.4880457,422.75504,-915.81784)"
        id="g867">
       <circle
          transform="matrix(0.29648325,0,0,0.29648325,-123.88712,249.80838)"
@@ -441,5 +473,17 @@
          id="path4895"
          style="opacity:1;fill:url(#linearGradient4903);fill-opacity:1;stroke:none;stroke-width:0.34888759;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:77.84125519px;line-height:1.25;font-family:'Handel Gothic Italic';-inkscape-font-specification:'Handel Gothic Italic, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#24314a;fill-opacity:1;stroke:none;stroke-width:0.16680269;stroke-opacity:1;filter:url(#filter910)"
+       x="408.27933"
+       y="179.63904"
+       id="text5140-7-3"
+       transform="matrix(0.74790601,0,0.07860809,0.74790601,155.68887,35.829054)"><tspan
+         sodipodi:role="line"
+         id="tspan5138-6-6"
+         x="408.27933"
+         y="179.63904"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:77.84125519px;font-family:'Handel Gothic Italic';-inkscape-font-specification:'Handel Gothic Italic, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#24314a;fill-opacity:1;stroke:none;stroke-width:0.16680269;stroke-opacity:1">just give back</tspan></text>
   </g>
 </svg>
