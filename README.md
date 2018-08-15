@@ -26,7 +26,7 @@ O Grupo PHP BRasil é uma comunidade que preza por ambientes sadios, por favor, 
 
 Usamos esse [código de conduta](https://github.com/brazil-it-groups/code-of-conduct) como referência e recomendamos que todos os membros dêem uma lida para entender com quais princípios estamos alinhados.
 
->> Consideramos que quem está no grupo concorda com os termos de conduta descritos.
+> Consideramos que quem está no grupo concorda com os termos de conduta descritos.
 
 ## Onde estamos
 
