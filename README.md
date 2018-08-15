@@ -24,7 +24,9 @@ Alguns tipos de mensagens são automaticamente deletados pelo bot que gerencia o
 
 O Grupo PHP BRasil é uma comunidade que preza por ambientes sadios, por favor, nos ajude nisso! Denuncie para a plataforma do Telegram ou à algum admin alguma atitude que julgar inapropriada.
 
-Usamos esse [código de conduta](https://github.com/brazil-it-groups/code-of-conduct) como referência e recomendamos que todos os membros dêem uma lida entender com quais princípios estamos alinhados.
+Usamos esse [código de conduta](https://github.com/brazil-it-groups/code-of-conduct) como referência e recomendamos que todos os membros dêem uma lida para entender com quais princípios estamos alinhados.
+
+>> Consideramos que quem está no grupo concorda com os termos de conduta descritos.
 
 ## Onde estamos
 
