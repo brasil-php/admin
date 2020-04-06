@@ -24,7 +24,7 @@ Alguns tipos de mensagens são automaticamente deletados pelo _bot_ que gerencia
 
 O Grupo PHP Brasil é uma comunidade que preza por ambientes sadios. Por favor, nos ajude nisso! Denuncie para a plataforma do Telegram ou a algum _admin_ alguma atitude que julgar inapropriada.
 
-Usamos esse [código de conduta](https://github.com/brazil-it-groups/code-of-conduct) como referência e recomendamos que todos os membros dêem uma lida para entender com quais princípios estamos alinhados.
+Usamos esse [código de conduta](https://github.com/brasil-php/code-of-conduct) como referência e recomendamos que todos os membros dêem uma lida para entender com quais princípios estamos alinhados.
 
 > Consideramos que quem está no grupo concorda com os termos de conduta descritos.
 
@@ -34,4 +34,4 @@ Dê uma olhada no nosso [Github](https://github.com/brasil-php) e encontre proje
 
 Confira nosso material no [Youtube](https://youtube.com/c/PHPBR) e se inscreva no nosso canal para acompanhar as novidades.
 
-Não esqueça de visitar o [blog](https://brasil-php.github.io/blog) para conferir os artigos produzidos pela própria comunidade.
+Não esqueça de visitar o [blog](https://medium.com/php-brasil) para conferir os artigos produzidos pela própria comunidade.
