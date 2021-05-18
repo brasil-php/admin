@@ -6,7 +6,7 @@
 
 ## Quem somos
 
-O PHP Brasil (aka PHPBR) teve origem em um [grupo de discussões despretensioso no Telegram](https://telegram.me/phpbrasil) que já ultrapassou a marca de 2.5k de inscritos e não para de aumentar. Com uma comunidade vibrante e envolvida, temos [números que impressionam](https://combot.org/c/-1001033617662).
+O PHP Brasil (aka PHPBR) teve origem em um [grupo de discussões despretensioso no Telegram](https://telegram.me/phpbrasil) que já ultrapassou a marca de 5k de inscritos e não para de aumentar. Com uma comunidade vibrante e envolvida, temos [números que impressionam](https://combot.org/c/-1001033617662).
 
 Se quiser falar sobre PHP e assuntos relacionados ao desenvolvimento web de um modo geral, pode encontrar no grupo uma boa morada : )
 
